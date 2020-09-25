@@ -4,7 +4,9 @@ AzDO build agent in a docker image that has Terraform installed
 
 ## Description
 
-Agent is added to the default pool of the AzDO organization targeted. 
+Agent is added to the default pool of the AzDO organization targeted.
+
+Terraform version v0.13.3
 
 [Microsoft documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops) on configuring the build agent in docker
 
